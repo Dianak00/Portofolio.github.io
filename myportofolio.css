@@ -468,6 +468,7 @@ h1 .speciality--info {
 .projectBox--wrapper {
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
 .firstLine, .secondLine {
     display: flex;
@@ -539,4 +540,5 @@ footer {
 footer p {
     margin: 20px;
     color: #fff;
+
 }
